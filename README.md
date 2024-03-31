@@ -32,12 +32,15 @@ Sentiment analysis is a natural language processing (NLP) task that involves det
    git clone https://github.com/your-username/sentiment-analysis-lstm.git
 
 2.Navigate to the project directory:
+
 cd sentiment-analysis-lstm
 
 3.Install the required dependencies:
+
 pip install -r requirements.txt
 
-3.Run the Python script:
+4.Run the Python script:
+
 pip install -r requirements.txt
 
 5.Follow the prompts to preprocess the IMDb dataset, train the LSTM model, and make predictions.
